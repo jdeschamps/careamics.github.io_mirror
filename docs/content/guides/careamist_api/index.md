@@ -62,7 +62,7 @@ documentation to learn all the various aspects of CAREamics.
     The configuration is at the heart of CAREamics, it allows users to define how and
     which algorithm will be trained.
 
-    [:octicons-arrow-right-24: Configuration](./content/guides/careamist_api/configuration/)
+    [:octicons-arrow-right-24: Configuration](./configuration/)
 
 -   :octicons-code-24:{ .lg .middle } __Usage__
 
@@ -71,6 +71,6 @@ documentation to learn all the various aspects of CAREamics.
     The CAREamist is the core element allowing training and prediction using the model
     defined in the configuration.
 
-    [:octicons-arrow-right-24: Usage](./content/guides/careamist_api/usage/)
+    [:octicons-arrow-right-24: Usage](./usage/)
 
 </div>
